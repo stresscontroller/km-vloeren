@@ -4,8 +4,8 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 
 export const metadata: Metadata = {
-  title: "Assortiment - Compleet Vloeren",
-  description: "Ontdek ons brede assortiment aan topmerken vloeren. Bij Compleet Vloeren kies je uit 15 topmerken in pvc vloeren, laminaat en meer.",
+  title: "Assortiment - KM Vloeren",
+  description: "Ontdek ons brede assortiment aan topmerken vloeren. Bij KM Vloeren kies je uit 15 topmerken in pvc vloeren, laminaat en meer.",
 }
 
 const topmerken = [
@@ -42,7 +42,7 @@ export default function AssortimentPage() {
               {/* Description paragraphs */}
               <div className="space-y-4 text-[#4a4538] text-sm md:text-base leading-relaxed mb-8">
                 <p>
-                  Bij Compleet Vloeren kies je uit een zorgvuldig geselecteerd aanbod van 15 topmerken in pvc vloeren, laminaat en meer. Wij leveren uitsluitend kwaliteitsvloeren die bekend staan om hun duurzaamheid, uitstraling en garantie – geschikt voor elk type woning of project.
+                  Bij KM Vloeren kies je uit een zorgvuldig geselecteerd aanbod van 15 topmerken in pvc vloeren, laminaat en meer. Wij leveren uitsluitend kwaliteitsvloeren die bekend staan om hun duurzaamheid, uitstraling en garantie – geschikt voor elk type woning of project.
                 </p>
                 <p>
                   Of je nu kiest voor pvc, laminaat of een andere stijl: bij een compleet vloerproject (van vloerverwarming tot afgewerkte vloer) kies je vrij elk merk en elk design – zonder meerprijs.
@@ -51,7 +51,7 @@ export default function AssortimentPage() {
                   Je profiteert altijd van één scherpe totaalprijs voor het volledige pakket: inclusief materiaal, professionele montage én topservice.
                 </p>
                 <p>
-                  Dit maakt Compleet Vloeren uniek in de markt.
+                  Dit maakt KM Vloeren uniek in de markt.
                 </p>
               </div>
 

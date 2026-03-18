@@ -5,7 +5,7 @@ import Link from "next/link"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Dichtsmeren van de Leidingen | Compleet Vloeren",
+  title: "Dichtsmeren van de Leidingen | KM Vloeren",
   description: "Professioneel dichtsmeren van vloerverwarmingsleidingen voor optimale efficiëntie.",
 }
 
@@ -23,7 +23,7 @@ export default function DichtSmerenPage() {
                   Dichtsmeren van vloerverwarmingsleidingen voor optimale efficiëntie
                 </h1>
                 <p className="text-[#4a4538] leading-relaxed mb-8 text-sm md:text-base">
-                  Het dichtsmeren van vloerverwarmingsleidingen is een essentiële stap voor een efficiënt, storingsvrij en energiezuinig vloerverwarmingssysteem. Compleet Vloeren zorgt voor een perfecte afdichting, zodat warmteverlies wordt voorkomen en jouw vloer overal gelijkmatig verwarmd wordt.
+                  Het dichtsmeren van vloerverwarmingsleidingen is een essentiële stap voor een efficiënt, storingsvrij en energiezuinig vloerverwarmingssysteem. KM Vloeren zorgt voor een perfecte afdichting, zodat warmteverlies wordt voorkomen en jouw vloer overal gelijkmatig verwarmd wordt.
                 </p>
 
                 {/* Waarom leidingen dichtsmeren */}
@@ -72,10 +72,10 @@ export default function DichtSmerenPage() {
                   </ul>
                 </div>
 
-                {/* Waarom Compleet Vloeren */}
+                {/* Waarom KM Vloeren */}
                 <div className="mb-8 border-t border-[#4a4538]/30 pt-6">
                   <h2 className="text-lg md:text-xl font-normal text-[#4a4538] mb-4 uppercase tracking-[0.1em] italic">
-                    Waarom Compleet Vloeren?
+                    Waarom KM Vloeren?
                   </h2>
                   <ul className="space-y-3 text-[#4a4538] text-sm md:text-base">
                     <li className="flex gap-2">
@@ -103,7 +103,7 @@ export default function DichtSmerenPage() {
                     Vloerverwarmingsleidingen laten dichtsmeren?
                   </h2>
                   <p className="text-[#4a4538] leading-relaxed mb-6 text-sm md:text-base">
-                    Neem contact op voor vrijblijvend advies of een offerte op maat. Compleet Vloeren zorgt dat jouw vloerverwarming optimaal presteert – voor jarenlang comfortabel wonen.
+                    Neem contact op voor vrijblijvend advies of een offerte op maat. KM Vloeren zorgt dat jouw vloerverwarming optimaal presteert – voor jarenlang comfortabel wonen.
                   </p>
                   <Link 
                     href="/contact"

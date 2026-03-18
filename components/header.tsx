@@ -68,7 +68,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16 md:h-20">
           <Link href="/" className="flex items-center gap-2">
             <span className={`text-xl md:text-2xl font-bold tracking-tight uppercase transition-colors duration-300 ${textColor}`}>
-              Compleet vloeren
+              KM Vloeren
             </span>
           </Link>
 

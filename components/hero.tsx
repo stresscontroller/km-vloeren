@@ -18,10 +18,10 @@ export function Hero() {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 md:px-6 text-center">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 text-balance">
-          Compleet vloeren
+          KM Vloeren
         </h1>
         <p className="text-lg md:text-xl text-primary font-medium mb-2 uppercase tracking-widest">
-          Compleet vloeren, compleet thuis
+          KM Vloeren, compleet thuis
         </p>
         <p className="text-muted-foreground text-sm md:text-base uppercase tracking-wider">
           de vloerenspecialist in nederland

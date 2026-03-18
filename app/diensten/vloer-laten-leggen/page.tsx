@@ -5,9 +5,9 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 
 export const metadata: Metadata = {
-  title: "Vloer Laten Leggen | Compleet Vloeren",
+  title: "Vloer Laten Leggen | KM Vloeren",
   description:
-    "Laat uw PVC vloer of visgraatvloer vakkundig leggen door de specialisten van Compleet Vloeren.",
+    "Laat uw PVC vloer of visgraatvloer vakkundig leggen door de specialisten van KM Vloeren.",
 }
 
 export default function VloerLatenLeggenPage() {
@@ -25,7 +25,7 @@ export default function VloerLatenLeggenPage() {
                 </h1>
                 <p className="text-[#4a4538] text-sm md:text-base leading-relaxed mb-8">
                   Laat je PVC, laminaat of gietvloer vakkundig leggen door specialisten van
-                  Compleet Vloeren. Wij werken landelijk, leveren maatwerk in elke stijl – van
+                  KM Vloeren. Wij werken landelijk, leveren maatwerk in elke stijl – van
                   visgraat tot Hongaarse punt en rechte plank – en garanderen een strak
                   resultaat in elke ruimte.
                 </p>
@@ -114,7 +114,7 @@ export default function VloerLatenLeggenPage() {
                 {/* Waarom Kiezen Section */}
                 <div className="border-t border-[#4a4538]/30 pt-6 mb-8">
                   <h2 className="text-lg md:text-xl font-normal text-[#4a4538] mb-4 uppercase tracking-[0.1em] italic">
-                    Waarom kiezen voor Compleet Vloeren?
+                    Waarom kiezen voor KM Vloeren?
                   </h2>
                   <ul className="space-y-3 text-[#4a4538] text-sm">
                     <li className="flex gap-2">
@@ -171,7 +171,7 @@ export default function VloerLatenLeggenPage() {
                 <div className="aspect-[4/5] relative overflow-hidden">
                   <Image
                     src="/images/craftsman.jpg"
-                    alt="Vakman van Compleet Vloeren"
+                    alt="Vakman van KM Vloeren"
                     fill
                     className="object-cover object-top"
                   />

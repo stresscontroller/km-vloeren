@@ -65,7 +65,7 @@ export default function VeelgesteldeVragenPage() {
         <section className="relative h-[300px] md:h-[400px]">
           <Image
             src="/images/showroom.jpg"
-            alt="Compleet Vloeren Showroom"
+            alt="KM Vloeren Showroom"
             fill
             className="object-cover"
             priority

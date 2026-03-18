@@ -4,8 +4,8 @@ import Image from "next/image"
 import Link from "next/link"
 
 export const metadata = {
-  title: "Plinten Plaatsen | Compleet Vloeren",
-  description: "Professionele plaatsing van MDF plinten voor een perfecte vloerafwerking door Compleet Vloeren.",
+  title: "Plinten Plaatsen | KM Vloeren",
+  description: "Professionele plaatsing van MDF plinten voor een perfecte vloerafwerking door KM Vloeren.",
 }
 
 export default function PlintenPlaatsenPage() {
@@ -24,7 +24,7 @@ export default function PlintenPlaatsenPage() {
                   vloerafwerking
                 </h1>
                 <p className="text-[#4a4538] leading-relaxed mb-8 text-sm md:text-base">
-                  MDF plinten zijn dé finishing touch voor iedere vloer. Ze zorgen voor een strakke, verzorgde uitstraling én beschermen de onderrand van je muur tegen stoten en vuil. Compleet Vloeren plaatst MDF plinten vakkundig in elke ruimte, bij elke vloer – snel en netjes, in heel Nederland.
+                  MDF plinten zijn dé finishing touch voor iedere vloer. Ze zorgen voor een strakke, verzorgde uitstraling én beschermen de onderrand van je muur tegen stoten en vuil. KM Vloeren plaatst MDF plinten vakkundig in elke ruimte, bij elke vloer – snel en netjes, in heel Nederland.
                 </p>
 
                 {/* Waarom kiezen voor MDF plinten */}
@@ -69,10 +69,10 @@ export default function PlintenPlaatsenPage() {
                   </ol>
                 </div>
 
-                {/* Waarom Compleet Vloeren */}
+                {/* Waarom KM Vloeren */}
                 <div className="border-t border-[#4a4538]/30 pt-6 mb-8">
                   <h2 className="text-lg md:text-xl font-normal text-[#4a4538] mb-4 uppercase tracking-[0.1em] italic">
-                    Waarom Compleet Vloeren?
+                    Waarom KM Vloeren?
                   </h2>
                   <ul className="space-y-3 text-[#4a4538] text-sm md:text-base">
                     <li className="flex gap-2">
@@ -100,7 +100,7 @@ export default function PlintenPlaatsenPage() {
                     Plinten laten plaatsen?
                   </h2>
                   <p className="text-[#4a4538] text-sm md:text-base mb-6">
-                    Vraag direct een vrijblijvende offerte aan of neem contact op voor advies. Compleet Vloeren maakt jouw interieur écht af – met perfecte vloerafwerking!
+                    Vraag direct een vrijblijvende offerte aan of neem contact op voor advies. KM Vloeren maakt jouw interieur écht af – met perfecte vloerafwerking!
                   </p>
                   <Link 
                     href="/contact"

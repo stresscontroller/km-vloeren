@@ -10,7 +10,7 @@ export function About() {
             Over ons
           </h2>
           <p className="text-[#4a4538] leading-relaxed text-sm md:text-base">
-            Bij Compleet Vloeren staan kwaliteit en vakmanschap centraal. Wij zijn gespecialiseerd in het leveren en 
+            Bij KM Vloeren staan kwaliteit en vakmanschap centraal. Wij zijn gespecialiseerd in het leveren en 
             installeren van hoogwaardige PVC-vloeren en vloerverwarming. Met uitsluitend topmaterialen en een vakkundige 
             plaatsing garanderen wij een duurzame, stijlvolle en comfortabele vloer voor iedere ruimte. Dankzij onze 
             jarenlange ervaring bieden wij maatwerkoplossingen die perfect aansluiten bij jouw stijl en woonwensen. 

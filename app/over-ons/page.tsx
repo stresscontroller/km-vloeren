@@ -4,8 +4,8 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 
 export const metadata = {
-  title: "Over ons | Compleet Vloeren",
-  description: "Leer meer over Compleet Vloeren - uw specialist in PVC-vloeren, laminaat, gietvloeren en vloerverwarming in heel Nederland.",
+  title: "Over ons | KM Vloeren",
+  description: "Leer meer over KM Vloeren - uw specialist in PVC-vloeren, laminaat, gietvloeren en vloerverwarming in heel Nederland.",
 }
 
 export default function OverOnsPage() {
@@ -22,7 +22,7 @@ export default function OverOnsPage() {
                 <div className="aspect-[4/5] relative overflow-hidden">
                   <Image
                     src="/images/showroom.jpg"
-                    alt="Compleet Vloeren showroom gebouw"
+                    alt="KM Vloeren showroom gebouw"
                     fill
                     className="object-cover"
                   />
@@ -36,13 +36,13 @@ export default function OverOnsPage() {
                     Over ons
                   </h1>
                   <h2 className="text-xl md:text-2xl lg:text-3xl font-normal text-[#4a4538] uppercase tracking-[0.1em]">
-                    Compleet Vloeren
+                    KM Vloeren
                   </h2>
                 </div>
 
                 <div className="space-y-4 text-[#4a4538] text-sm md:text-base leading-relaxed">
                   <p>
-                    Bij Compleet Vloeren staan kwaliteit, vakmanschap en persoonlijke service centraal. 
+                    Bij KM Vloeren staan kwaliteit, vakmanschap en persoonlijke service centraal. 
                     Wij zijn gespecialiseerd in het leveren en installeren van hoogwaardige pvc-vloeren, 
                     laminaat, gietvloeren en vloerverwarming. Met uitsluitend topmerken en vakkundige 
                     plaatsing garanderen wij een duurzame, stijlvolle en comfortabele vloeroplossing 
@@ -87,7 +87,7 @@ export default function OverOnsPage() {
         <section className="py-12 md:py-16 bg-[#c9b99a]">
           <div className="container mx-auto px-4 md:px-6 lg:px-12 max-w-3xl">
             <h3 className="text-xl md:text-2xl lg:text-3xl font-normal text-[#4a4538] uppercase tracking-[0.1em] italic leading-relaxed mb-4">
-              Benieuwd naar wat Compleet Vloeren voor jou kan betekenen?
+              Benieuwd naar wat KM Vloeren voor jou kan betekenen?
             </h3>
             <p className="text-[#4a4538] text-sm md:text-base">
               Neem vandaag nog contact met ons op voor een vrijblijvend adviesgesprek.

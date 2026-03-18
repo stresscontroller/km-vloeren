@@ -12,7 +12,7 @@ export function Services() {
               Diensten
             </h2>
             <p className="text-[#4a4538] leading-relaxed mb-8 text-sm md:text-base">
-              Compleet Vloeren biedt een uitgebreid assortiment aan vloerdiensten voor klanten in heel Nederland. 
+              KM Vloeren biedt een uitgebreid assortiment aan vloerdiensten voor klanten in heel Nederland. 
               Laat jouw PVC vloer, visgraatvloer of vloer met vloerverwarming vakkundig leggen door onze ervaren specialisten. 
               Ontdek onze diensten of vraag direct vrijblijvend een offerte aan!
             </p>

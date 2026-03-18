@@ -5,8 +5,8 @@ import { Footer } from "@/components/footer"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Vloerverwarming | Compleet Vloeren",
-  description: "Vloerverwarming installatie door Compleet Vloeren. Geniet het hele jaar door van een warm en comfortabel huis.",
+  title: "Vloerverwarming | KM Vloeren",
+  description: "Vloerverwarming installatie door KM Vloeren. Geniet het hele jaar door van een warm en comfortabel huis.",
 }
 
 export default function VloerverwarmingPage() {
@@ -23,7 +23,7 @@ export default function VloerverwarmingPage() {
                   Vloerverwarming laten aanleggen – comfortabel, energiezuinig en modern
                 </h1>
                 <p className="text-[#4a4538] leading-relaxed text-sm md:text-base mb-8">
-                  Vloerverwarming is de toekomst van comfortabel wonen. Geniet van warme voeten, een gelijkmatig binnenklimaat en een strak interieur – zonder zichtbare radiatoren. Compleet Vloeren is specialist in het aanleggen van vloerverwarming in elke woning, nieuwbouw én bestaande bouw.
+                  Vloerverwarming is de toekomst van comfortabel wonen. Geniet van warme voeten, een gelijkmatig binnenklimaat en een strak interieur – zonder zichtbare radiatoren. KM Vloeren is specialist in het aanleggen van vloerverwarming in elke woning, nieuwbouw én bestaande bouw.
                 </p>
 
                 {/* De voordelen van vloerverwarming */}
@@ -51,10 +51,10 @@ export default function VloerverwarmingPage() {
                   </ul>
                 </div>
 
-                {/* Waarom kiezen voor Compleet Vloeren */}
+                {/* Waarom kiezen voor KM Vloeren */}
                 <div className="border-t border-[#4a4538]/30 pt-6 mb-8">
                   <h2 className="text-lg md:text-xl font-normal text-[#4a4538] mb-4 uppercase tracking-[0.1em] italic">
-                    Waarom kiezen voor Compleet Vloeren?
+                    Waarom kiezen voor KM Vloeren?
                   </h2>
                   <ul className="space-y-3 text-[#4a4538] text-sm md:text-base">
                     <li className="flex gap-2">
@@ -88,7 +88,7 @@ export default function VloerverwarmingPage() {
                     Neem contact op voor vrijblijvend advies of vraag direct een offerte aan.
                   </p>
                   <p className="text-[#4a4538] text-sm md:text-base mb-6">
-                    Compleet Vloeren regelt het – van advies tot vakkundige installatie.
+                    KM Vloeren regelt het – van advies tot vakkundige installatie.
                   </p>
                   <Link 
                     href="/contact"

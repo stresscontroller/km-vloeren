@@ -5,8 +5,8 @@ import Link from "next/link"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Egaliseren | Compleet Vloeren",
-  description: "Professioneel egaliseren van uw vloer voor een perfecte ondergrond. Compleet Vloeren zorgt voor een vlakke basis.",
+  title: "Egaliseren | KM Vloeren",
+  description: "Professioneel egaliseren van uw vloer voor een perfecte ondergrond. KM Vloeren zorgt voor een vlakke basis.",
 }
 
 export default function EgaliserenPage() {
@@ -26,7 +26,7 @@ export default function EgaliserenPage() {
                 </h1>
                 
                 <p className="text-[#4a4538] text-sm md:text-base leading-relaxed mb-8">
-                  Een egale ondervloer is essentieel voor het strak en duurzaam leggen van je pvc vloer, laminaat, tegels of gietvloer. Compleet Vloeren zorgt met vakkundig egaliseren voor een stabiele en gladde basis, in heel Nederland.
+                  Een egale ondervloer is essentieel voor het strak en duurzaam leggen van je pvc vloer, laminaat, tegels of gietvloer. KM Vloeren zorgt met vakkundig egaliseren voor een stabiele en gladde basis, in heel Nederland.
                 </p>
 
                 {/* Waarom Egaliseren */}
@@ -79,10 +79,10 @@ export default function EgaliserenPage() {
                   </ol>
                 </div>
 
-                {/* Waarom Compleet Vloeren */}
+                {/* Waarom KM Vloeren */}
                 <div className="mb-8">
                   <h2 className="text-lg md:text-xl font-normal text-[#4a4538] mb-4 uppercase tracking-[0.1em] italic border-b border-[#4a4538]/30 pb-2">
-                    Waarom Compleet Vloeren?
+                    Waarom KM Vloeren?
                   </h2>
                   <ul className="space-y-3 text-[#4a4538] text-sm">
                     <li className="flex gap-2">
@@ -110,7 +110,7 @@ export default function EgaliserenPage() {
                     Vakkundig egaliseren?
                   </h2>
                   <p className="text-[#4a4538] text-sm mb-6">
-                    Neem contact op voor gratis advies of vraag direct een vrijblijvende offerte aan. Compleet Vloeren regelt de perfecte basis voor elk type vloer!
+                    Neem contact op voor gratis advies of vraag direct een vrijblijvende offerte aan. KM Vloeren regelt de perfecte basis voor elk type vloer!
                   </p>
                   <Link 
                     href="#contact"

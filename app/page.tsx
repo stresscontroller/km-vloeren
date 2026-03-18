@@ -40,8 +40,8 @@ export default function Home() {
                   <Mail className="w-5 h-5 text-[#c9b99a] mt-1 shrink-0" />
                   <div>
                     <p className="text-white font-medium mb-1">E-mail</p>
-                    <a href="mailto:info@compleetvloeren.nl" className="text-gray-400 hover:text-[#c9b99a] transition-colors">
-                      info@compleetvloeren.nl
+                    <a href="mailto:info@kmvloeren.nl" className="text-gray-400 hover:text-[#c9b99a] transition-colors">
+                      info@kmvloeren.nl
                     </a>
                   </div>
                 </div>

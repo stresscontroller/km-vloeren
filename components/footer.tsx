@@ -9,11 +9,11 @@ export function Footer() {
         <div className="container mx-auto px-4 md:px-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <Link href="/" className="text-lg font-bold text-white uppercase tracking-wide">
-              Compleet vloeren
+              KM Vloeren
             </Link>
             
             <p className="text-gray-500 text-sm">
-              © {new Date().getFullYear()} Compleet Vloeren. Alle rechten voorbehouden.
+              © {new Date().getFullYear()} KM Vloeren. Alle rechten voorbehouden.
             </p>
           </div>
         </div>

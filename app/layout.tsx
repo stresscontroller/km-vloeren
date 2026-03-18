@@ -1,7 +1,6 @@
 import React from "react"
 import type { Metadata } from 'next'
 import { Poppins } from 'next/font/google'
-import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 const poppins = Poppins({ 
@@ -10,7 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Compleet Vloeren',
+  title: 'KM Vloeren',
   description: 'De vloerenspecialist in Nederland - PVC vloeren, visgraatvloeren en vloerverwarming vakkundig gelegd',
     generator: 'v0.app'
 }
@@ -24,7 +23,6 @@ export default function RootLayout({
     <html lang="nl">
       <body className={`${poppins.className} antialiased`}>
         {children}
-        <Analytics />
       </body>
     </html>
   )

@@ -4,8 +4,8 @@ import Image from "next/image"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Contact - Compleet Vloeren",
-  description: "Neem contact op met Compleet Vloeren voor vragen, advies of een vrijblijvende offerte.",
+  title: "Contact - KM Vloeren",
+  description: "Neem contact op met KM Vloeren voor vragen, advies of een vrijblijvende offerte.",
 }
 
 export default function ContactPage() {
@@ -19,7 +19,7 @@ export default function ContactPage() {
             <div className="relative h-[300px] md:h-auto">
               <Image
                 src="/images/showroom.jpg"
-                alt="Compleet Vloeren showroom"
+                alt="KM Vloeren showroom"
                 fill
                 className="object-cover"
                 priority
@@ -41,10 +41,10 @@ export default function ContactPage() {
                   <p className="text-base md:text-lg">
                     <span className="font-medium">E:</span>{" "}
                     <a 
-                      href="mailto:info@compleetvloeren.nl" 
+                      href="mailto:info@kmvloeren.nl" 
                       className="hover:text-[#6b5d45] transition-colors"
                     >
-                      info@compleetvloeren.nl
+                      info@kmvloeren.nl
                     </a>
                   </p>
                 </div>
